@@ -30,4 +30,10 @@ accountBalance *= 1.08 // Accrued Intrest
 console.log("After Accrued Interest:", accountBalance);
 
 accountBalance /= 1.08 // Depreciation
-console.log("After Depreciation:", accountBalance)
+console.log("After Depreciation:", accountBalance);
+
+// Task 4 String Data Type
+let customerName = John Doe
+let welcomeMessage = "Welcome, " + customerName + " Here you can find the best Gaming Headsets.";
+
+console.log(welcomeMessage);
