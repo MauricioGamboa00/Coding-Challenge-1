@@ -33,7 +33,7 @@ accountBalance /= 1.08 // Depreciation
 console.log("After Depreciation:", accountBalance);
 
 // Task 4 String Data Type
-let customerName = John Doe
+let customerName = "John Doe"
 let welcomeMessage = "Welcome, " + customerName + " Here you can find the best Gaming Headsets.";
 
 console.log(welcomeMessage);
