@@ -37,3 +37,12 @@ let customerName = "John Doe"
 let welcomeMessage = "Welcome, " + customerName + " Here you can find the best Gaming Headsets.";
 
 console.log(welcomeMessage);
+
+// Task 5 Boolean Data Type
+let isLoggedIn = true;
+
+if (isLoggedIn) {
+    console.log("Acess Granted: User Sucessfully Logged In.");
+} else {
+    console.log(Access Denied: User not Logged In.);
+}
