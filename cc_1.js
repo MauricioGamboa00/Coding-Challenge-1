@@ -15,3 +15,19 @@ var isAvailable = true;
 console.log("Product Name:", productName, "Type:", typeof productName);
 console.log("Product Price:", productPrice, "Type:", typeof productPrice);
 console.log("Is Available:", isAvailable, "Type:", typeof isAvailable);
+
+// Task 3 Number Data Types
+let accountBalance = 4000
+console.log("Starting Account Balance:", accountBalance);
+
+accountBalance += 200 // Deposit Made
+console.log("After Deposit Made:", accountBalance);
+
+accountBalance -= 200 // Account Withdraw
+console.log("After Withdraw Made:", accountBalance);
+
+accountBalance *= 1.08 // Accrued Intrest 
+console.log("After Accrued Interest:", accountBalance);
+
+accountBalance /= 1.08 // Depreciation
+console.log("After Depreciation:", accountBalance)
