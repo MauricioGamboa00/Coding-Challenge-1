@@ -29,7 +29,7 @@ console.log("After Withdraw Made:", accountBalance);
 accountBalance *= 1.08 // Accrued Intrest 
 console.log("After Accrued Interest:", accountBalance);
 
-accountBalance /= 1.08 // Depreciation
+accountBalance /= 2 // Depreciation
 console.log("After Depreciation:", accountBalance);
 
 // Task 4 String Data Type
